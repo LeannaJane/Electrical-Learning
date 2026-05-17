@@ -2,10 +2,11 @@
 
 The arduino R2 diagram:
 
- (Arduino, 2019)
+<img width="1089" height="779" alt="image" src="https://github.com/user-attachments/assets/777415cd-28af-4a92-8bd0-d82dadb253c0" />
+
+(Arduino, 2019)
 
 The key components of an arduino board:
-
  
 1. The microcontroller - this is the brain of the arduino, and the component that have programs loaded into it. (Tiny computer that can execute only a number of specific things).
 2. USB port - used to connect arduino to computer
@@ -15,13 +16,19 @@ The key components of an arduino board:
 6. 5V/3.3 V pins - these are pins are used to power external components
 7. GND - also known as ground, negative or simply -, is used to complete a circuit, where the electrical level is at 0 volts.
 8. VIN - stands for voltage in, where you can connect external power supplies.
+<img width="609" height="402" alt="image" src="https://github.com/user-attachments/assets/cd1b0411-19fd-4ea3-a33b-12990b727dae" />
 
- (Arduino, 2019)
+(Arduino, 2019)
+
 
 Making a basic circuit with an arduino:
 Arduino circuit built using tinker cad simulation.  
 
- (Tinkercad, 2023)
+<img width="596" height="398" alt="image" src="https://github.com/user-attachments/assets/3006076c-360c-43d8-b3ae-57bdde2496f7" />
+
+(Tinkercad, 2023)
+ 
+<img width="655" height="873" alt="image" src="https://github.com/user-attachments/assets/5c1b2b4a-30f5-41ab-b743-32d5e76170fd" />
 
 
 ### Task 1: Wiring a Basic LED Circuit
@@ -53,6 +60,7 @@ Terminology Notes:
 | **Anode**    | Long Leg                             | Connected to the Resistor / Power side     | The positive entry point for current. |
 | **Cathode**  | Short Leg (Flat edge on LED housing) | Connected to the Purple Wire / Ground side | The negative exit point for current.  |
 
+<img width="274" height="184" alt="image" src="https://github.com/user-attachments/assets/6ba6f5f1-46ee-42bd-aa7b-fc3ccb06003b" />
 
 (You, 2019)
 
@@ -76,7 +84,11 @@ void loop() {
 
 
 
-Uploading 20260516_225637.mp4…
+
+
+
+
+https://github.com/user-attachments/assets/b9c6f28a-2bd9-42b3-9402-2a7749909ef7
 
 
 ### Task 2: Wiring an 8-LED Sequential and Alternating Circuit
